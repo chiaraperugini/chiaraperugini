@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chiara Perugini
+- 👋 Hello, I’m Chiara Perugini
 - 👀 I am a graduate student in Economics, with interests in labor economics, development economics, and political economy
 - 🌱 I’m currently enrolled in the second year of the MSc in Economics and Econometrics at the University of Bologna 
 - 💞️ I look forward to working in academia as a researcher 
